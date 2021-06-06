@@ -1,4 +1,16 @@
-4 -    22                -  9      -    21            -    8
-QQQQ, BICH HUYET KIEM     , 1200   , VO THANH TRUNG     , 1974  , KIEM HIEP
-QQWW, TAY DU KI           , 1560   , NGO KINH TRUNG     , 1976  , CO TRANG
-WWRT, FAST AND FURIUS 07  , 2560   , THE GHOST TEAM 01  , 2010  , VIEN TUONG
+5-ISBN    30-TEN SACH             9-so strang     21-tac gia         9-nam xb    the loai
+NNTT ,YEU XA                        ,685      ,TIEU DAO             ,2010     ,NGON TINH
+QQQQ ,TREN NGON TINH SAU            ,12500    ,DU TU LE             ,2010     ,NGON TINH
+QQQ0 ,NHAT KI TRONG TU              ,25600    ,HO CHI MINH          ,1990     ,THO VAN
+QQQ2 ,THO XUAN QUYNH                ,2650     ,XUAN QUYNH           ,1870     ,THO VAN
+QQQ3 ,TRUYEN KIEU                   ,1756     ,NGUYEN DU            ,1800     ,THO VAN
+QQQ4 ,BUI CO HANG HIEU              ,1700     ,RIOT GAME            ,2010     ,GIAI TRI
+WWWW ,DAO TINH                      ,17500    ,CHU NGOC             ,2011     ,NGON TINH
+IIII ,BANG CHU DOAT YEU             ,2500     ,TRAN PHUONG NGOC     ,2000     ,NGON TINH
+KKKK ,NHAT KI TRONG TU              ,17500    ,HO CHI MINH          ,1875     ,THO VAN
+AAAA ,LIEN MINH HUYEN THOAI         ,25600    ,GERANA               ,2010     ,GIAI TRI
+EEEE ,GUOM CUA VUA VO DANH          ,12       ,GERANA               ,2010     ,GIAI TRI
+AA11 ,MU PHU THUY                   ,25       ,GERANA               ,2010     ,GIAI TRI
+OOOO ,VU DIEU TU THAN               ,25000    ,VO DANH              ,2011     ,VIEN TUONG
+A1A1 ,TRAI TYM DOAT MENH            ,2560     ,VO DANH              ,2000     ,VIEN TUONG
+UUUU ,CHIEN BINH KHONG GIAN         ,260      ,GERANA               ,2010     ,GIAI TRI

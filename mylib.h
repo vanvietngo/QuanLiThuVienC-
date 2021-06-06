@@ -1,4 +1,6 @@
 
+#pragma once
+
 #include <conio.h>
 
 #include <stdio.h>
@@ -100,6 +102,10 @@ void SetBGColor(WORD color)
 
     SetConsoleTextAttribute(hConsoleOutput, wAttributes);
 }
+
+
+
 void clrscr() {
 	system("cls");
 }
+

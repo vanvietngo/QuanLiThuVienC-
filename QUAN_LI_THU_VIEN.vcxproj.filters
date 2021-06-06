@@ -32,7 +32,16 @@
     <ClInclude Include="the_doc_gia.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="dohoa.h">
+    <ClInclude Include="Variable_Global.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mylib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ve_hinh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="do_hoa.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -41,6 +50,12 @@
       <Filter>Header Files</Filter>
     </Text>
     <Text Include="dausach.txt">
+      <Filter>Header Files</Filter>
+    </Text>
+    <Text Include="danhmucsach.txt">
+      <Filter>Header Files</Filter>
+    </Text>
+    <Text Include="danhsachmuontra.txt">
       <Filter>Header Files</Filter>
     </Text>
   </ItemGroup>

@@ -129,10 +129,15 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dau_sach.h" />
-    <ClInclude Include="dohoa.h" />
+    <ClInclude Include="ve_hinh.h" />
+    <ClInclude Include="do_hoa.h" />
+    <ClInclude Include="mylib.h" />
     <ClInclude Include="the_doc_gia.h" />
+    <ClInclude Include="Variable_Global.h" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="danhmucsach.txt" />
+    <Text Include="danhsachmuontra.txt" />
     <Text Include="dausach.txt" />
     <Text Include="thedocgia.txt" />
   </ItemGroup>
